@@ -52,6 +52,15 @@ Distribuído sob a licença MIT.
   \ \___,_\  \____\/\____\ 
    \/__,_ / \/____/\/____/
 
+Escolha uma das opções a baixo para deletar arquivos de forma segura
+
+-------------> 1- Deletar apenas um arquivo
+-------------> 2- Deletar todos os arquivos de uma pasta
+-------------> 3- Dividir e deletar
+-------------> 4- Sair do programa
+Digite --->  
+
+
 ```
 Criado por Gazakov ☠️
 
