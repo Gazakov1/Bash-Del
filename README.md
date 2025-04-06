@@ -28,6 +28,7 @@ openssl
 zip
 ```
 Você pode instalar eles com:
-
+```bash
 sudo apt install coreutils openssl zip
+```
 
