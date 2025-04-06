@@ -26,4 +26,8 @@ split
 shred
 openssl
 zip
+```
+Você pode instalar eles com:
+
+sudo apt install coreutils openssl zip
 
