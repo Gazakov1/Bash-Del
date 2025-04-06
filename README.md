@@ -31,4 +31,45 @@ Você pode instalar eles com:
 ```bash
 sudo apt install coreutils openssl zip
 ```
+## 📁 Como usar
+Clone o repositório:
+```bash
+git clone https://github.com/Gazakov1/Bash-Del.git
+cd Bash-Del
+chmod +x del.sh
+./del.sh
+```
+## 🛡️ Licença
+Distribuído sob a licença MIT.
+
+## 📸 Preview
+```bash
+      __         ___     
+     /\ \       /\_ \    
+     \_\ \  ___ \//\ \   
+   /_ \ \/ __\ \  \ \    
+  /\ \L\ \/ \  __/ \_\ \_  
+  \ \___,_\  \____\/\____\ 
+   \/__,_ / \/____/\/____/
+
+```
+Criado por Gazakov ☠️
+
+---
+
+### 🛠 Como adicionar esse README no seu repositório:
+
+1. Crie o arquivo:
+```bash
+nano README.md
+```
+1- Cole o conteúdo acima.
+
+2- Salve com CTRL+O e saia com CTRL+X.
+
+3- Faça o commit:
+```bash
+git add README.md
+git commit -m "Adicionando README estilizado"
+git push
 
